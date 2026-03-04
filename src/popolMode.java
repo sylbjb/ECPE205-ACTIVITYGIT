@@ -42,7 +42,9 @@ public class popolMode extends JFrame {
         con.add(c, constraints);
     }
 
-
+    public static void popolMode(String[] args){
+        new popolMode();
+    }
 
 }
 
