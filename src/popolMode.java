@@ -12,7 +12,7 @@ public class popolMode extends JFrame {
     public popolMode(){
         con.setLayout(new GridBagLayout());
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setTitle("Order Screen");
+        setTitle("");
 
         e = new JLabel("HI Guys");
         addComponent(0,0,1,1,0,0,GridBagConstraints.CENTER,e);
@@ -42,7 +42,7 @@ public class popolMode extends JFrame {
         con.add(c, constraints);
     }
 
-    public static void popolMode(String[] args){
+    public static void main(String[] args){
         new popolMode();
     }
 
