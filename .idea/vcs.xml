@@ -4,10 +4,13 @@
     <mapping directory="" vcs="Git" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
 >>>>>>> origin/popol
 =======
 >>>>>>> origin/dogs
+=======
+>>>>>>> origin/fish
   </component>
 </project>
