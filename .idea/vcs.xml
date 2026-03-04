@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
 >>>>>>> origin/popol
@@ -12,5 +13,7 @@
 >>>>>>> origin/dogs
 =======
 >>>>>>> origin/fish
+=======
+>>>>>>> origin/cats
   </component>
 </project>
