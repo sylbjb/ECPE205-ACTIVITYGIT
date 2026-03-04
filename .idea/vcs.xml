@@ -4,6 +4,10 @@
     <mapping directory="" vcs="Git" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/cats
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -13,7 +17,11 @@
 >>>>>>> origin/dogs
 =======
 >>>>>>> origin/fish
+<<<<<<< HEAD
 =======
+>>>>>>> origin/cats
+=======
+>>>>>>> origin/main
 >>>>>>> origin/cats
   </component>
 </project>
